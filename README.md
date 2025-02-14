@@ -5,3 +5,5 @@ Instalación:
 2.- git clone https://github.com/pitiritic/joplin.git  
 3.- cd joplin  
 4.- docker compose up  
+email: admin@localhost  
+password: admin  
